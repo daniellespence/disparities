@@ -37,9 +37,9 @@ Licence: Open Government Licence - Canada
 
 Data on Canadian recreation behaviour were downloaded from the Government of Canada's Open Data portal. Raw data can be downloaded from https://open.canada.ca/data/en/dataset/694b9da8-1f06-4ebe-ad38-1b14bdaf756e, under the Resource Name "cns2012pumf.xlsx" and Resource Type Dataset. The data dictionary is also provided at this link. A copy of the data is provided as part of this archive. The data are in the public domain.
 
-Datafile:  `Raw2012Data.csv`
-
 Data were prepared using the '1PrepareData.R' script available at https://github.com/plloydsmith/RecBenefitsCanadaCJE
+
+Datafile used:  `CanadaRecData.csv`
 
 Computational requirements
 ---------------------------
