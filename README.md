@@ -39,6 +39,8 @@ Data on Canadian recreation behaviour were downloaded from the Government of Can
 
 Datafile:  `Raw2012Data.csv`
 
+Data were prepared using the '1PrepareData.R' script available at https://github.com/plloydsmith/RecBenefitsCanadaCJE
+
 Computational requirements
 ---------------------------
 
