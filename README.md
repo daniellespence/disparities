@@ -105,17 +105,14 @@ The provided code reproduces:
 
 | Figure/Table  | Program             | Line Number | Output file                      | Note   |
 |-----------|-------------------------|-------------|----------------------------------|-------|
-| Table 1 | CreateWelfareTables.R | 58            | activity_table.tex   ||
-| Table 2 | CreateEstimationTables.R | 55          | mdcev_national_w.tex   ||
-| Table 3 | CreateWelfareTables.R| 138         | welfare_national_w_combined.tex   ||
-| Table 4 | CreateWelfareTables.R| 209         | welfare_provincial_combined.tex    ||
-| Table B-1 | CreateAppendixTables.R | 79         | days_prov.tex                      ||
-| Table B-2 | CreateAppendixTables.R | 128         | costs_prov.tex                      ||
-| Table B-3 | CreateEstimationTables.R| 103         | mdcev_prov1.tex, mdcev_prov2.tex, mdcev_prov3.tex                      ||
-| Figure 1 | CreateAppendixTables.R |   47          |  multiple_activities.png |          |
-| Figure 2 | CreateWelfareTables.R      | 242            | wtp_day.png                      ||
-| Figure A-1 | from survey |             |            |       |
-| Figure A-2 | from survey |             |             |     |
+| Table 1 | Disparaties_Demographics.R |             |   ||
+| Table 2 | RunAll_DS.R | 54          |    ||
+| Table 3 | RunAll_DS.R| 137         |    ||
+| Table 4 | RunAll_DS.R| 234         |     ||
+| Table 5 | RunAll_DS.R | 265         |                   ||
+| Table 6 | RunAll_DS.R | 281         |                      ||
+| Figure 1 | RunAll_DS.R |   433          |  subgroup_diff.png |          |
+| Figure 2 | RunAll_DS.R      | 473           | subgroup_diff_gender.png                      ||
 
 ## References
 
