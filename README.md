@@ -2,7 +2,7 @@
 ---
 title: 'ReadMe: Disparities in economic values for nature-based activities in Canada (Spence, Schuster-Wallace, Lloyd-Smith, EE)'
 
-author: "Pat Lloyd-Smith"
+author: "Danielle Spence"
 
 date: "September 2022"
 
