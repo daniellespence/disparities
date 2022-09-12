@@ -15,7 +15,7 @@ output:
 Overview
 --------
 
-The code in this replication package uses R to construct all analyses in *Disparities in economic values for nature-based activities in Canada*. The data is from the Canadian Nature Survey (2012). Additional information on the dataset is provided in Federal, Provincial, and Territorial Governments of Canada (2014). Raw data were cleaned and travel costs calculated for the publication *Economic Benefits of Recreation in Canada*. Code for data preparation and calculation of travel costs are available at https://github.com/plloydsmith/RecBenefitsCanadaCJE. Here, one master file runs all of the code to generate the data for the 2 figures in the paper. The replicator should expect the code to run for about 48 hours. All other scripts are available at https://github.com/daniellespence/disparities
+The code in this replication package uses R to construct all analyses in *Disparities in economic values for nature-based activities in Canada*. The data is from the Canadian Nature Survey (2012). Additional information on the dataset is provided in Federal, Provincial, and Territorial Governments of Canada (2014). Raw data were cleaned and travel costs calculated for the publication *Economic Benefits of Recreation in Canada*. Code for data preparation and calculation of travel costs are available at https://github.com/plloydsmith/RecBenefitsCanadaCJE. Here, one master file runs all of the code to generate the data for the 6 tables and 2 figures in the paper. The replicator should expect the code to run for about 48 hours. Scripts for data analysis are available at https://github.com/daniellespence/disparities
 
 Data Availability and Provenance Statements
 ----------------------------
