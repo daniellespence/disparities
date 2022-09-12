@@ -1,11 +1,11 @@
 # disparities
 ---
 title: 'ReadMe: Disparities in economic values for nature-based activities in Canada (Spence, Schuster-Wallace, Lloyd-Smith, EE)'
--
+
 author: "Pat Lloyd-Smith"
--
+
 date: "September 2022"
--
+
 output:
   pdf_document: default
   html_document: default
